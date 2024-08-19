@@ -1,3 +1,4 @@
+###### example:
 00020-2769795489.png
 >score_9,score_8_up,score_7_up,source_anime,1girl,solo,<lora:michinoku_komaro:0.8>,michinoku komaro,masterpiece,best quality,long hair,big breasts,pink hair,blue eyes,bags under eyes,
 Negative prompt: (score_4,score_3,score_2,score_1),ugly,bad feet,bad hands,aidxlv05_neg,NEGATIVE_HANDS,
